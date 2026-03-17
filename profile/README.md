@@ -21,6 +21,12 @@ All texts are freely available under the [CC0 1.0 Universal](http://creativecomm
 | [BaptistShorterCatechism](https://github.com/BaptistSymbolics/BaptistShorterCatechism) | Keach's Catechism (1813 Charleston edition) | 114 | [v0.9.0-beta](https://github.com/BaptistSymbolics/BaptistShorterCatechism/releases/tag/v0.9.0-beta) |
 | [OrthodoxCatechism](https://github.com/BaptistSymbolics/OrthodoxCatechism) | Hercules Collins' Orthodox Catechism (1680) | 159 | [v0.9.1](https://github.com/BaptistSymbolics/OrthodoxCatechism/releases/tag/v0.9.1) |
 
+### Translations
+
+| Repository | Source | Language | Status |
+|---|---|---|---|
+| [BaptistShorterCatechismGreek](https://github.com/BaptistSymbolics/BaptistShorterCatechismGreek) | Keach's Catechism | Modern Greek | In progress |
+
 ## About
 
 These projects aim to:
