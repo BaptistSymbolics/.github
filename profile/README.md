@@ -25,7 +25,7 @@ All texts are freely available under the [CC0 1.0 Universal](http://creativecomm
 
 | Repository | Source | Language | Status |
 |---|---|---|---|
-| [BaptistShorterCatechismGreek](https://github.com/BaptistSymbolics/BaptistShorterCatechismGreek) | Keach's Catechism | Modern Greek | In progress |
+| [BaptistShorterCatechismGreek](https://github.com/BaptistSymbolics/BaptistShorterCatechismGreek) | Keach's Catechism | Modern Greek | [v0.9.0-beta](https://github.com/BaptistSymbolics/BaptistShorterCatechismGreek/releases/tag/v0.9.0-beta) |
 
 ## About
 
